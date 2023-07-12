@@ -61,3 +61,10 @@ a:hover{
    text-underline-offset: 4px;
    transition: 0.5s;
 }
+h2{
+    color:white;
+    line-height: 5%;
+    position: absolute;
+    left:10%;
+    top:1.5%;
+}
